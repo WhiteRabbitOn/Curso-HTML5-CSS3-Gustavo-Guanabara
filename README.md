@@ -4,12 +4,14 @@
     <a href="https://www.youtube.com/@CursoemVideo" target="_blank">YouTube</a>.
 </p>
 <h1>Exercícios</h1>
-    <ul>
-        <li><a href="https://br.linkedin.com/in/guanabara" target="_blank">Exercício</a></li>
-        <li><a href="https://br.linkedin.com/in/guanabara" target="_blank">Exercício</a></li>
-        <li><a href="https://br.linkedin.com/in/guanabara" target="_blank">Exercício</a></li>
-        <li><a href="https://br.linkedin.com/in/guanabara" target="_blank">Exercício</a></li>
-    </ul>
+    <p>
+        <ul>
+            <li><a href="https://br.linkedin.com/in/guanabara" target="_blank">Exercício</a></li>
+            <li><a href="https://br.linkedin.com/in/guanabara" target="_blank">Exercício</a></li>
+            <li><a href="https://br.linkedin.com/in/guanabara" target="_blank">Exercício</a></li>
+            <li><a href="https://br.linkedin.com/in/guanabara" target="_blank">Exercício</a></li>
+        </ul>
+    </p>
 <h1>Desafios</h1>
     <ul>
         <li><a href="https://br.linkedin.com/in/guanabara" target="_blank">Desafio</a></li>
