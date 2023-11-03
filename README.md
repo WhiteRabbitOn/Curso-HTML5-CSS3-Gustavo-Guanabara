@@ -3,6 +3,11 @@
     <a  href="https://br.linkedin.com/in/guanabara" target="_blank">Professor Guanabara</a> no 
     <a href="https://www.youtube.com/@CursoemVideo" target="_blank">YouTube</a>.
 </p>
-<h1>Exercícios</h1>
-<h2><a href="https://br.linkedin.com/in/guanabara" target="_blank">Exercício</a></h2>
+<h2>Módulo 01</h2>
+<h3>Exercícios</h3>
+<h4><a href="https://br.linkedin.com/in/guanabara" target="_blank">Exercício 01</a></h4>
 <p>Descrição do Exercício</p>
+<h2>Módulo 02</h2>
+<h3>Desafios</h3>
+<h4><a href="https://br.linkedin.com/in/guanabara" target="_blank">Desafio 01</a></h4>
+<p>Descrição do Desafio</p>
